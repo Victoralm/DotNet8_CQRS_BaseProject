@@ -2,7 +2,6 @@
 using API.Entities;
 using API.Repositories.Interfaces;
 using Dapper;
-//using static Dapper.SqlMapper;
 
 namespace API.Repositories.Implementations;
 
